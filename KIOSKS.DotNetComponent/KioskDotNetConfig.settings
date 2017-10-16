@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KioskDotNetService" GeneratedClassName="KioskDotNetConfig">
+  <Profiles />
+  <Settings>
+    <Setting Name="LISTEN_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7077</Value>
+    </Setting>
+    <Setting Name="BUFFER_SIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2048</Value>
+    </Setting>
+    <Setting Name="SOCKET_READ_TIMEOUT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="LOG_RETAIN_HISTORY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="LOG_FILE_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KioskDotNetLog</Value>
+    </Setting>
+    <Setting Name="LOG_FILE_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\KioskDotNet_Log</Value>
+    </Setting>
+    <Setting Name="MODULE_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KioskDotNetService</Value>
+    </Setting>
+    <Setting Name="MODULE_VERSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.0.0.1</Value>
+    </Setting>
+    <Setting Name="COMPANY_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Woolworths Group</Value>
+    </Setting>
+    <Setting Name="LOG_FILE_COUNT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="MAX_LOG_SIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_ERROR" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_INFO" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_DEBUG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_WARNING" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_SQL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_XML" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_KEYS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LOG_OPTION_SECURE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PCEFTPOS_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="PCEFTPOS_PORT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2999</Value>
+    </Setting>
+    <Setting Name="KIOSK_SERVICE_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

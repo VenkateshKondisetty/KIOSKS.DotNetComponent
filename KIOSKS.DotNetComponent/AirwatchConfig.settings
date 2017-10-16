@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KioskDotNetService" GeneratedClassName="AirwatchConfig">
+  <Profiles />
+  <Settings>
+    <Setting Name="StoreID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1234</Value>
+    </Setting>
+    <Setting Name="MerchantID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">611000602002773</Value>
+    </Setting>
+    <Setting Name="TerminalID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">W2773098</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
